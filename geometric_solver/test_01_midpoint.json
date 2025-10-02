@@ -1,0 +1,13 @@
+{
+	"knowns": [
+		{ "type": "point", "id": "A", "coords": [0, 0] },
+		{ "type": "point", "id": "B", "coords": [8, 4] }
+	],
+	"target": {
+		"type": "point",
+		"id": "Midpoint",
+		"definition": {
+			"coords": [4, 2]
+		}
+	}
+}

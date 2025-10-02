@@ -1,0 +1,14 @@
+{
+	"knowns": [
+		{ "type": "point", "id": "A", "coords": [0, 0] },
+		{ "type": "point", "id": "B", "coords": [8, 0] },
+		{ "type": "point", "id": "C", "coords": [4, 6] }
+	],
+	"target": {
+		"type": "point",
+		"id": "Circumcenter",
+		"definition": {
+			"coords": [4.0, 0.6666666667]
+		}
+	}
+}

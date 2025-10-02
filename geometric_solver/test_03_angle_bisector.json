@@ -1,0 +1,14 @@
+{
+	"knowns": [
+		{ "type": "point", "id": "A", "coords": [0, 0] },
+		{ "type": "point", "id": "B", "coords": [5, 0] },
+		{ "type": "point", "id": "C", "coords": [3, 4] }
+	],
+	"target": {
+		"type": "line",
+		"id": "AngleBisector",
+		"definition": {
+			"coeffs": [-0.3846153846, 0.9230769231, 0.0]
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"knowns": [
+		{ "type": "point", "id": "A", "coords": [1, 1] },
+		{ "type": "point", "id": "B", "coords": [5, 5] }
+	],
+	"target": {
+		"type": "line",
+		"id": "PerpBisector",
+		"definition": {
+			"coeffs": [0.7071067812, 0.7071067812, -8.4852813742]
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"knowns": [
+		{ "type": "point", "id": "C", "coords": [0, 0] },
+		{ "type": "point", "id": "R", "coords": [3, 0] },
+		{ "type": "point", "id": "P", "coords": [5, 0] },
+		{ "type": "circle", "id": "c1", "center": "C", "point_on_circumference": "R" }
+	],
+	"target": {
+		"type": "line",
+		"id": "TangentLine",
+		"definition": {
+			"coeffs": [0.8, 0.6, -4.0]
+		}
+	}
+}
